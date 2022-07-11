@@ -33,7 +33,7 @@ function Checkout() {
 
   // load stripe to inject into elements components
   const stripePromise = loadStripe(
-    "pk_test_51K9s9CKfDYuSYV2wNyHJYXZADEwza6qOZtQljALfWU0f4CTtH4hUR41XbdLWxCtXfPTyNjgb8lsD2TOA9ykh9PtD00e13yO8Bg"
+    "pk_live_51L75EYILFOneVRlzlYWmqHBKTYjfAwfkyQCZZ2YJH5FGUhLjIVmTUNrrLCKrtdg2PIf5lV4Il4qxC0EtU1th0k1m00enaRi0ck"
   );
 
   const handleToggleSignIn = () => {

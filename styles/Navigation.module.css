@@ -47,11 +47,6 @@
   transition: opacity 0.7s ease;
 }
 
-
-/*****************************
-/* Menu Drawer
-/*****************************/
-
 .menuDrawer {
   position: fixed;
   width: 250px;
@@ -156,19 +151,6 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-
-/*****************************
-/* Login and Register Drawers
-/*****************************/
 .loginDrawerContainer {
   height: 100vh;
   overflow: hidden;

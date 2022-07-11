@@ -3,7 +3,7 @@ import Navigation from "./navigation/index";
 
 const Layout = (props) => {
   const title =
-    "Instaplate - Restaurant delivery from the company that brought you instacart";
+    "Serveroo - It'll do!™";
 
 
   return (
